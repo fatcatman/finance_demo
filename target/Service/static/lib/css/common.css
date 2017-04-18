@@ -1,0 +1,4 @@
+/* 解决select2 在bootstrap modal中显示问题 */
+div.select2-drop {
+    z-index: 10050;
+}

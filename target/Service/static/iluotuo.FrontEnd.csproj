@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9D2E3995-B735-4516-95CE-E9E9432CC7C4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iluotuo.FrontEnd</RootNamespace>
+    <AssemblyName>iluotuo.FrontEnd</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fis-conf-release.js" />
+    <Content Include="fis-conf.js" />
+    <Content Include="lib\css\attachment.css" />
+    <Content Include="lib\css\attachmenticon.css" />
+    <Content Include="lib\css\blue.css" />
+    <Content Include="lib\css\bootstrap-fileupload.css" />
+    <Content Include="lib\css\bootstrap-image-gallery.min.css" />
+    <Content Include="lib\css\bootstrap-modal.css" />
+    <Content Include="lib\css\bootstrap-responsive.min.css" />
+    <Content Include="lib\css\bootstrap.min.css" />
+    <Content Include="lib\css\brown.css" />
+    <Content Include="lib\css\common.css" />
+    <Content Include="lib\css\customize.css" />
+    <Content Include="lib\css\datepicker.css" />
+    <Content Include="lib\css\daterangepicker.css" />
+    <Content Include="lib\css\default.css" />
+    <Content Include="lib\css\drag.css" />
+    <Content Include="lib\css\easydialog.css" />
+    <Content Include="lib\css\font-awesome.min.css" />
+    <Content Include="lib\css\fullcalendar.css" />
+    <Content Include="lib\css\glyphicons.css" />
+    <Content Include="lib\css\grey.css" />
+    <Content Include="lib\css\jquery.dataTables.css" />
+    <Content Include="lib\css\jquery.easy-pie-chart.css" />
+    <Content Include="lib\css\jquery.gritter.css" />
+    <Content Include="lib\css\jqvmap.css" />
+    <Content Include="lib\css\light.css" />
+    <Content Include="lib\css\lightbox.css" />
+    <Content Include="lib\css\login-soft.css" />
+    <Content Include="lib\css\login.css" />
+    <Content Include="lib\css\multi-select-metro.css" />
+    <Content Include="lib\css\profile.css" />
+    <Content Include="lib\css\purple.css" />
+    <Content Include="lib\css\select2_metro.css" />
+    <Content Include="lib\css\skins\cm_blue\images\submenu.gif" />
+    <Content Include="lib\css\skins\cm_blue\style.css" />
+    <Content Include="lib\css\skins\cm_default\images\background.gif" />
+    <Content Include="lib\css\skins\cm_default\images\hover.gif" />
+    <Content Include="lib\css\skins\cm_default\images\icons\disk.gif" />
+    <Content Include="lib\css\skins\cm_default\images\icons\drive.gif" />
+    <Content Include="lib\css\skins\cm_default\images\icons\file.gif" />
+    <Content Include="lib\css\skins\cm_default\images\icons\folders.gif" />
+    <Content Include="lib\css\skins\cm_default\images\icons\ok.gif" />
+    <Content Include="lib\css\skins\cm_default\images\separator.gif" />
+    <Content Include="lib\css\skins\cm_default\images\submenu.gif" />
+    <Content Include="lib\css\skins\cm_default\images\submenu_dis.gif" />
+    <Content Include="lib\css\skins\cm_default\style.css" />
+    <Content Include="lib\css\style-metro.css" />
+    <Content Include="lib\css\style-responsive.css" />
+    <Content Include="lib\css\style.css" />
+    <Content Include="lib\css\uniform.default.css" />
+    <Content Include="lib\css\uploadify.css" />
+    <Content Include="lib\css\yun-static.css" />
+    <Content Include="lib\drag.js" />
+    <Content Include="lib\excanvas.min.js" />
+    <Content Include="lib\font\fontawesome-webfont.svg" />
+    <Content Include="lib\font\glyphicons-regular.svg" />
+    <Content Include="lib\font\glyphicons-white.svg" />
+    <Content Include="lib\font\glyphiconshalflings-regular.svg" />
+    <Content Include="lib\font\glyphicons_halflings-white.svg" />
+    <Content Include="lib\font\glyphicons_halflings.svg" />
+    <Content Include="lib\html5shiv.min.js" />
+    <Content Include="lib\image\1.jpg" />
+    <Content Include="lib\image\10.jpg" />
+    <Content Include="lib\image\11.jpg" />
+    <Content Include="lib\image\2.jpg" />
+    <Content Include="lib\image\3.jpg" />
+    <Content Include="lib\image\4.jpg" />
+    <Content Include="lib\image\5.jpg" />
+    <Content Include="lib\image\6.jpg" />
+    <Content Include="lib\image\7.jpg" />
+    <Content Include="lib\image\8.jpg" />
+    <Content Include="lib\image\9.jpg" />
+    <Content Include="lib\image\ajax-loading.gif" />
+    <Content Include="lib\image\alpha.png" />
+    <Content Include="lib\image\amazon.png" />
+    <Content Include="lib\image\animated-overlay.gif" />
+    <Content Include="lib\image\avatar.png" />
+    <Content Include="lib\image\avatar1.jpg" />
+    <Content Include="lib\image\avatar1_small.jpg" />
+    <Content Include="lib\image\avatar2.jpg" />
+    <Content Include="lib\image\avatar3.jpg" />
+    <Content Include="lib\image\banner\banner.jpg" />
+    <Content Include="lib\image\banner\banner2.jpg" />
+    <Content Include="lib\image\banner\banner3.jpg" />
+    <Content Include="lib\image\behance.png" />
+    <Content Include="lib\image\bg-input-focus.png" />
+    <Content Include="lib\image\bg-input.png" />
+    <Content Include="lib\image\bg-opacity.png" />
+    <Content Include="lib\image\bg-white-lock.png" />
+    <Content Include="lib\image\bg\1.jpg" />
+    <Content Include="lib\image\bg\2.jpg" />
+    <Content Include="lib\image\bg\3.jpg" />
+    <Content Include="lib\image\bg\4.jpg" />
+    <Content Include="lib\image\bg\5.jpg" />
+    <Content Include="lib\image\bg\logo.png" />
+    <Content Include="lib\image\blank.gif" />
+    <Content Include="lib\image\blogger.png" />
+    <Content Include="lib\image\bstree-halflings.png" />
+    <Content Include="lib\image\chosen-sprite.png" />
+    <Content Include="lib\image\close.png" />
+    <Content Include="lib\image\datatable-row-openclose.png" />
+    <Content Include="lib\image\defluat-header.jpg" />
+    <Content Include="lib\image\deviantart.png" />
+    <Content Include="lib\image\dribbble.png" />
+    <Content Include="lib\image\dropbox.png" />
+    <Content Include="lib\image\earth.jpg" />
+    <Content Include="lib\image\evernote.png" />
+    <Content Include="lib\image\facebook.png" />
+    <Content Include="lib\image\fancybox_loading.gif" />
+    <Content Include="lib\image\fancybox_overlay.png" />
+    <Content Include="lib\image\fancybox_sprite.png" />
+    <Content Include="lib\image\favicon.ico" />
+    <Content Include="lib\image\favicon.png" />
+    <Content Include="lib\image\forrst.png" />
+    <Content Include="lib\image\github.png" />
+    <Content Include="lib\image\glyphicons-halflings-white.png" />
+    <Content Include="lib\image\glyphicons-halflings.png" />
+    <Content Include="lib\image\glyphicons-regular.svg" />
+    <Content Include="lib\image\glyphicons-white.png" />
+    <Content Include="lib\image\glyphicons.png" />
+    <Content Include="lib\image\glyphicons_halflings-white.png" />
+    <Content Include="lib\image\glyphicons_halflings.png" />
+    <Content Include="lib\image\googleplus.png" />
+    <Content Include="lib\image\gritter-brown.png" />
+    <Content Include="lib\image\gritter-light.png" />
+    <Content Include="lib\image\gritter-purple.png" />
+    <Content Include="lib\image\gritter.png" />
+    <Content Include="lib\image\hor-menu-search-close-white.png" />
+    <Content Include="lib\image\hor-menu-search-close.png" />
+    <Content Include="lib\image\hor-menu-search.png" />
+    <Content Include="lib\image\hue.png" />
+    <Content Include="lib\image\icon-color-close.png" />
+    <Content Include="lib\image\icon-color.png" />
+    <Content Include="lib\image\icon-img-down.png" />
+    <Content Include="lib\image\icon-img-up.png" />
+    <Content Include="lib\image\ie-spacer.gif" />
+    <Content Include="lib\image\image1.jpg" />
+    <Content Include="lib\image\image2.jpg" />
+    <Content Include="lib\image\image3.jpg" />
+    <Content Include="lib\image\image4.jpg" />
+    <Content Include="lib\image\image5.jpg" />
+    <Content Include="lib\image\img1.png" />
+    <Content Include="lib\image\img1_2.png" />
+    <Content Include="lib\image\img2.png" />
+    <Content Include="lib\image\img3.png" />
+    <Content Include="lib\image\img4.png" />
+    <Content Include="lib\image\inbox-nav-arrow-blue.png" />
+    <Content Include="lib\image\instagram.png" />
+    <Content Include="lib\image\iphone.png" />
+    <Content Include="lib\image\item_img.jpg" />
+    <Content Include="lib\image\item_img1.jpg" />
+    <Content Include="lib\image\jolicloud.png" />
+    <Content Include="lib\image\KwPYo.jpg" />
+    <Content Include="lib\image\last-fm.png" />
+    <Content Include="lib\image\linkedin.png" />
+    <Content Include="lib\image\loading.gif" />
+    <Content Include="lib\image\logo-big.png" />
+    <Content Include="lib\image\logo-index-home.png" />
+    <Content Include="lib\image\logo-index.png" />
+    <Content Include="lib\image\logo-main.png" />
+    <Content Include="lib\image\logo.png" />
+    <Content Include="lib\image\logo_azteca.jpg" />
+    <Content Include="lib\image\logo_conquer.jpg" />
+    <Content Include="lib\image\logo_metronic.jpg" />
+    <Content Include="lib\image\map.png" />
+    <Content Include="lib\image\menu-toggler.png" />
+    <Content Include="lib\image\next.png" />
+    <Content Include="lib\image\overlay-icon.png" />
+    <Content Include="lib\image\photo1.jpg" />
+    <Content Include="lib\image\photo2.jpg" />
+    <Content Include="lib\image\photo3.jpg" />
+    <Content Include="lib\image\photo4.jpg" />
+    <Content Include="lib\image\photo5.jpg" />
+    <Content Include="lib\image\photo6.jpg" />
+    <Content Include="lib\image\picasa.png" />
+    <Content Include="lib\image\pintrest.png" />
+    <Content Include="lib\image\portlet-collapse-icon-white.png" />
+    <Content Include="lib\image\portlet-collapse-icon.png" />
+    <Content Include="lib\image\portlet-config-icon-white.png" />
+    <Content Include="lib\image\portlet-config-icon.png" />
+    <Content Include="lib\image\portlet-expand-icon-white.png" />
+    <Content Include="lib\image\portlet-expand-icon.png" />
+    <Content Include="lib\image\portlet-reload-icon-white.png" />
+    <Content Include="lib\image\portlet-reload-icon.png" />
+    <Content Include="lib\image\portlet-remove-icon-white.png" />
+    <Content Include="lib\image\portlet-remove-icon.png" />
+    <Content Include="lib\image\prev.png" />
+    <Content Include="lib\image\preview_02.png" />
+    <Content Include="lib\image\preview_03.png" />
+    <Content Include="lib\image\preview_04.png" />
+    <Content Include="lib\image\preview_05.png" />
+    <Content Include="lib\image\preview_06.png" />
+    <Content Include="lib\image\preview_07.png" />
+    <Content Include="lib\image\preview_08.png" />
+    <Content Include="lib\image\preview_09.png" />
+    <Content Include="lib\image\preview_10.png" />
+    <Content Include="lib\image\preview_11.png" />
+    <Content Include="lib\image\preview_12.png" />
+    <Content Include="lib\image\preview_13.png" />
+    <Content Include="lib\image\preview_14.png" />
+    <Content Include="lib\image\preview_15.png" />
+    <Content Include="lib\image\preview_16.png" />
+    <Content Include="lib\image\preview_17.png" />
+    <Content Include="lib\image\profile-img.png" />
+    <Content Include="lib\image\profile.jpg" />
+    <Content Include="lib\image\progressbar.gif" />
+    <Content Include="lib\image\remove-icon-small.png" />
+    <Content Include="lib\image\rss.png" />
+    <Content Include="lib\image\saturation.png" />
+    <Content Include="lib\image\search-icon-blue.png" />
+    <Content Include="lib\image\search-icon-brown.png" />
+    <Content Include="lib\image\search-icon-purple.png" />
+    <Content Include="lib\image\search-icon-white.png" />
+    <Content Include="lib\image\search-icon.png" />
+    <Content Include="lib\image\select2-spinner.gif" />
+    <Content Include="lib\image\select2.png" />
+    <Content Include="lib\image\select2x2.png" />
+    <Content Include="lib\image\sidebar-menu-arrow-green.png" />
+    <Content Include="lib\image\sidebar-menu-arrow.png" />
+    <Content Include="lib\image\sidebar-search-close-blue.png" />
+    <Content Include="lib\image\sidebar-search-close-brown.png" />
+    <Content Include="lib\image\sidebar-search-close-light.png" />
+    <Content Include="lib\image\sidebar-search-close-purple.png" />
+    <Content Include="lib\image\sidebar-search-close.png" />
+    <Content Include="lib\image\sidebar-toggler-blue.jpg" />
+    <Content Include="lib\image\sidebar-toggler-brown.jpg" />
+    <Content Include="lib\image\sidebar-toggler-light.jpg" />
+    <Content Include="lib\image\sidebar-toggler-purple.jpg" />
+    <Content Include="lib\image\sidebar-toggler.jpg" />
+    <Content Include="lib\image\skype.png" />
+    <Content Include="lib\image\social_facebook.png" />
+    <Content Include="lib\image\social_googleplus.png" />
+    <Content Include="lib\image\social_linkedin.png" />
+    <Content Include="lib\image\social_rss.png" />
+    <Content Include="lib\image\social_twitter.png" />
+    <Content Include="lib\image\sort_asc.png" />
+    <Content Include="lib\image\sort_asc_disabled.png" />
+    <Content Include="lib\image\sort_both.png" />
+    <Content Include="lib\image\sort_desc.png" />
+    <Content Include="lib\image\sort_desc_disabled.png" />
+    <Content Include="lib\image\spotify.png" />
+    <Content Include="lib\image\sprite.png" />
+    <Content Include="lib\image\spritemap%402x.png" />
+    <Content Include="lib\image\spritemap.png" />
+    <Content Include="lib\image\stumbleupon.png" />
+    <Content Include="lib\image\switch.png" />
+    <Content Include="lib\image\syncfusion-icons-white.png" />
+    <Content Include="lib\image\syncfusion-icons.png" />
+    <Content Include="lib\image\tumblr.png" />
+    <Content Include="lib\image\twitter.png" />
+    <Content Include="lib\image\ui-bg_diagonals-thick_18_b81900_40x40.png" />
+    <Content Include="lib\image\ui-bg_diagonals-thick_20_666666_40x40.png" />
+    <Content Include="lib\image\ui-bg_flat_10_000000_40x100.png" />
+    <Content Include="lib\image\ui-bg_glass_100_f6f6f6_1x400.png" />
+    <Content Include="lib\image\ui-bg_glass_100_fdf5ce_1x400.png" />
+    <Content Include="lib\image\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="lib\image\ui-bg_gloss-wave_35_f6a828_500x100.png" />
+    <Content Include="lib\image\ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+    <Content Include="lib\image\ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+    <Content Include="lib\image\ui-icons_222222_256x240.png" />
+    <Content Include="lib\image\ui-icons_228ef1_256x240.png" />
+    <Content Include="lib\image\ui-icons_888888_256x240.png" />
+    <Content Include="lib\image\ui-icons_ef8c08_256x240.png" />
+    <Content Include="lib\image\ui-icons_ffd27a_256x240.png" />
+    <Content Include="lib\image\ui-icons_ffffff_256x240.png" />
+    <Content Include="lib\image\uploadify-cancel.png" />
+    <Content Include="lib\image\uploadify.swf" />
+    <Content Include="lib\image\vimeo.png" />
+    <Content Include="lib\image\vk.png" />
+    <Content Include="lib\image\walmart.png" />
+    <Content Include="lib\image\wordpress.png" />
+    <Content Include="lib\image\xing.png" />
+    <Content Include="lib\image\yahoo.png" />
+    <Content Include="lib\image\youtube.png" />
+    <Content Include="lib\img\uploadify-cancel.png" />
+    <Content Include="lib\jquery\ajaxfileupload.js" />
+    <Content Include="lib\jquery\bootstrap-datepicker.js" />
+    <Content Include="lib\jquery\bootstrap-fileupload.js" />
+    <Content Include="lib\jquery\bootstrap-modal.js" />
+    <Content Include="lib\jquery\bootstrap-modalmanager.js" />
+    <Content Include="lib\jquery\bootstrap.min.js" />
+    <Content Include="lib\jquery\date.js" />
+    <Content Include="lib\jquery\daterangepicker.js" />
+    <Content Include="lib\jquery\dateUtil.js" />
+    <Content Include="lib\jquery\easydialog.min.js" />
+    <Content Include="lib\jquery\fullcalendar.min.js" />
+    <Content Include="lib\jquery\jquery-1.10.1.min.js" />
+    <Content Include="lib\jquery\jquery-migrate-1.2.1.min.js" />
+    <Content Include="lib\jquery\jquery-ui-1.10.1.custom.min.js" />
+    <Content Include="lib\jquery\jquery.backstretch.min.js" />
+    <Content Include="lib\jquery\jquery.blockui.min.js" />
+    <Content Include="lib\jquery\jquery.cookie.min.js" />
+    <Content Include="lib\jquery\jquery.dataTables.js" />
+    <Content Include="lib\jquery\jquery.dataTables.min.js" />
+    <Content Include="lib\jquery\jquery.easy-pie-chart.js" />
+    <Content Include="lib\jquery\jquery.flot.js" />
+    <Content Include="lib\jquery\jquery.flot.resize.js" />
+    <Content Include="lib\jquery\jquery.gritter.js" />
+    <Content Include="lib\jquery\jquery.jeegoocontext-2.0.0.min.js" />
+    <Content Include="lib\jquery\jquery.pulsate.min.js" />
+    <Content Include="lib\jquery\jquery.slimscroll.min.js" />
+    <Content Include="lib\jquery\jquery.sparkline.min.js" />
+    <Content Include="lib\jquery\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="lib\jquery\jquery.uniform.min.js" />
+    <Content Include="lib\jquery\jquery.uploadify.js" />
+    <Content Include="lib\jquery\jquery.uploadify.min.js" />
+    <Content Include="lib\jquery\jquery.validate.min.js" />
+    <Content Include="lib\jquery\jquery.vmap.europe.js" />
+    <Content Include="lib\jquery\jquery.vmap.germany.js" />
+    <Content Include="lib\jquery\jquery.vmap.js" />
+    <Content Include="lib\jquery\jquery.vmap.russia.js" />
+    <Content Include="lib\jquery\jquery.vmap.sampledata.js" />
+    <Content Include="lib\jquery\jquery.vmap.usa.js" />
+    <Content Include="lib\jquery\jquery.vmap.world.js" />
+    <Content Include="lib\jquery\pace.min.js" />
+    <Content Include="lib\jquery\select2.min.js" />
+    <Content Include="lib\lightbox.js" />
+    <Content Include="lib\lightbox.min.js" />
+    <Content Include="lib\mod.js" />
+    <Content Include="lib\page\themes\black\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\black\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\black\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\black\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\black\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\black\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\black\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\black\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\black\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\black\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\black\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\black\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\black\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\black\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\blue\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\green\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\green\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\green\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\green\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\green\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\green\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\green\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\green\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\green\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\green\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\green\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\green\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\green\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\green\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\orange\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\pink\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\purple\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\red\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\red\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\red\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\red\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\red\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\red\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\red\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\red\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\red\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\red\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\red\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\red\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\red\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\red\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\silver\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\white\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\white\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\white\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\white\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\white\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\white\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\white\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\white\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\white\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\white\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\white\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\white\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\white\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\white\pace-theme-minimal.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-barber-shop.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-big-counter.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-bounce.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-center-atom.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-center-circle.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-center-radar.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-center-simple.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-corner-indicator.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-fill-left.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-flash.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-flat-top.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-loading-bar.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-mac-osx.css" />
+    <Content Include="lib\page\themes\yellow\pace-theme-minimal.css" />
+    <Content Include="lib\respond.min.js" />
+    <Content Include="lib\webuploader\Uploader.swf" />
+    <Content Include="lib\webuploader\webuploader.css" />
+    <Content Include="lib\webuploader\webuploader.custom.js" />
+    <Content Include="lib\webuploader\webuploader.custom.min.js" />
+    <Content Include="lib\webuploader\webuploader.fis.js" />
+    <Content Include="lib\webuploader\webuploader.flashonly.js" />
+    <Content Include="lib\webuploader\webuploader.flashonly.min.js" />
+    <Content Include="lib\webuploader\webuploader.html5only.js" />
+    <Content Include="lib\webuploader\webuploader.html5only.min.js" />
+    <Content Include="lib\webuploader\webuploader.js" />
+    <Content Include="lib\webuploader\webuploader.min.js" />
+    <Content Include="lib\webuploader\webuploader.noimage.js" />
+    <Content Include="lib\webuploader\webuploader.noimage.min.js" />
+    <Content Include="lib\webuploader\webuploader.nolog.js" />
+    <Content Include="lib\webuploader\webuploader.nolog.min.js" />
+    <Content Include="lib\webuploader\webuploader.withoutimage.js" />
+    <Content Include="lib\webuploader\webuploader.withoutimage.min.js" />
+    <Content Include="modules\app\index.js" />
+    <Content Include="modules\app\layout.js" />
+    <Content Include="modules\app\login.js" />
+    <Content Include="modules\app\main.js" />
+    <Content Include="modules\app\services\ajaxService.js" />
+    <Content Include="modules\app\services\canvasService.js" />
+    <Content Include="modules\app\services\filterService.js" />
+    <Content Include="modules\app\services\routeService.js" />
+    <Content Include="modules\app\services\tmplService.js" />
+    <Content Include="modules\app\views\approval_org\approval_org.js" />
+    <Content Include="modules\app\views\edit\edit.js" />
+    <Content Include="modules\app\views\approval\approval.js" />
+    <Content Include="modules\app\views\allorg\allorg.js" />
+    <Content Include="modules\app\views\guide\guide.js" />
+    <Content Include="modules\app\views\temp\temp.js" />
+    <Content Include="modules\app\views\org\org.js" />
+    <Content Include="modules\app\views\group\group.js" />
+    <Content Include="modules\app\views\image\image.js" />
+    <Content Include="modules\app\views\message\message.js" />
+    <Content Include="modules\app\views\module\moduleparent.js" />
+    <Content Include="modules\app\views\news\news.js" />
+    <Content Include="modules\app\views\header\header.js" />
+    <Content Include="modules\app\views\home\home.js" />
+    <Content Include="modules\app\views\manager\manager.js" />
+    <Content Include="modules\app\views\module\module.js" />
+    <Content Include="modules\app\views\page\page.js" />
+    <Content Include="modules\app\views\product\productdetail.js" />
+    <Content Include="modules\app\views\product\product.js" />
+    <Content Include="modules\app\views\sidebar\sidebar.js" />
+    <Content Include="modules\app\views\userCenter\userCenter.js" />
+    <Content Include="modules\app\views\user\Balance.js" />
+    <Content Include="modules\app\views\user\UserPwd.js" />
+    <Content Include="modules\app\views\user\user.js" />
+    <Content Include="modules\app\views\user\manager.js" />
+    <Content Include="modules\app\views\task\task.js" />
+    <Content Include="modules\app\views\wxuser\wxuser.js" />
+    <Content Include="modules\vendor\avalon\avalon.js" />
+    <Content Include="modules\vendor\avalon\avalon.validation.js" />
+    <Content Include="modules\vendor\avalon\mmHistory.js" />
+    <Content Include="modules\vendor\avalon\mmPromise.js" />
+    <Content Include="modules\vendor\avalon\mmRouter.js" />
+    <Content Include="modules\vendor\bootstrap\bootstrap-responsive.min.css" />
+    <Content Include="modules\vendor\bootstrap\bootstrap.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cmd.cmd" />
+    <None Include="lib\font\fontawesome-webfont.eot" />
+    <None Include="lib\font\fontawesome-webfont.ttf" />
+    <None Include="lib\font\fontawesome-webfont.woff" />
+    <None Include="lib\font\glyphicons-regular.eot" />
+    <None Include="lib\font\glyphicons-regular.ttf" />
+    <None Include="lib\font\glyphicons-regular.woff" />
+    <None Include="lib\font\glyphiconshalflings-regular.eot" />
+    <None Include="lib\font\glyphiconshalflings-regular.ttf" />
+    <None Include="lib\font\glyphiconshalflings-regular.woff" />
+    <None Include="lib\image\css" />
+    <None Include="lib\image\glyphicons-regular.eot" />
+    <None Include="lib\image\glyphicons-regular.ttf" />
+    <None Include="lib\image\glyphicons-regular.woff" />
+    <None Include="lib\image\js" />
+    <None Include="lib\webuploader\README.md" />
+    <None Include="modules\app\views\approval_org\approval_org.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\edit\edit.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\approval\approval.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\allorg\allorg.tmpl" />
+    <None Include="modules\app\views\guide\guide.tmpl" />
+    <None Include="modules\app\views\temp\temp.tmpl" />
+    <None Include="modules\app\views\org\org.tmpl" />
+    <None Include="modules\app\views\group\group.tmpl" />
+    <None Include="modules\app\views\image\image.tmpl" />
+    <None Include="modules\app\views\message\message.tmpl" />
+    <None Include="modules\app\views\module\moduleparent.tmpl" />
+    <None Include="modules\app\views\news\news.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\header\header.tmpl" />
+    <None Include="modules\app\views\home\home.tmpl" />
+    <None Include="modules\app\views\manager\manager.tmpl" />
+    <None Include="modules\app\views\module\module.tmpl" />
+    <None Include="modules\app\views\page\page.tmpl" />
+    <None Include="modules\app\views\product\productdetail.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\product\product.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\sidebar\sidebar.tmpl" />
+    <None Include="modules\app\views\userCenter\userCenter.tmpl" />
+    <None Include="modules\app\views\user\Balance.tmpl" />
+    <None Include="modules\app\views\user\UserPwd.tmpl" />
+    <None Include="modules\app\views\user\user.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\user\manager.tmpl" />
+    <None Include="modules\app\views\task\task.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="modules\app\views\wxuser\wxuser.tmpl">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Manager\Login.cshtml" />
+    <None Include="①开启web服务（前端使用）.bat" />
+    <None Include="②发布代码（前端使用）.bat" />
+    <None Include="开启node进程（发布网站使用）.bat" />
+    <None Include="开启node进程（后端使用）.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="modules\vendor\common\" />
+    <Folder Include="modules\vendor\jquery\" />
+    <Folder Include="modules\vendor\mock\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

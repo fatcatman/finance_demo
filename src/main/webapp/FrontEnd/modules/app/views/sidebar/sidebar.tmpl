@@ -1,0 +1,23 @@
+<ul class="page-sidebar-menu" ms-controller="sidebar">
+	<li>
+		<!-- BEGIN SIDEBAR TOGGLER BUTTON -->
+		<div class="sidebar-toggler hidden-phone"></div>
+		<!-- BEGIN SIDEBAR TOGGLER BUTTON -->
+	</li>
+	<li ms-repeat-module="modules" ms-class-1="start:$first" ms-class-2="active:actived==module.name" ms-class-3="last:$last">
+		<a ms-href="{{module.href}}" ms-click="SetActive(module.name)">
+		    <i ms-class="{{module.icon}}"></i> 
+		    <span class="title">{{module.title}}</span>
+		    <span ms-class="selected:actived==module.name"></span>
+            <span ms-class="arrow:!module.leaf"></span>
+		</a>
+		<ul class="sub-menu" ms-if="module.children!=undefined">
+			<li ms-repeat-sub="module.children">
+				<a ms-href="{{sub.href}}" ms-click="SetActive(module.name)">
+				    <i ms-class="{{sub.icon}}"></i>
+				    {{sub.title}}
+                </a>
+			</li>
+		</ul>
+	</li>
+</ul>

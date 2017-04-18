@@ -1,0 +1,75 @@
+﻿.module-grid-view .wrapper {
+  margin: 0 0 0 10px;
+  position: relative;
+}
+.module-grid-view .wrapper .item {
+  width: 142px;
+  height: 122px;
+  line-height: 0;
+  float: left;
+  margin: 4px 4px 0 0;
+  text-align: center;
+}
+.module-grid-view .wrapper .item {
+  width: 142px;
+  height: 122px;
+  line-height: 0;
+  float: left;
+  margin: 4px 4px 0 0;
+  text-align: center;
+}
+.module-grid-view .wrapper .item:hover {
+  width: 142px;
+  height: 122px;
+  line-height: 0;
+  float: left;
+  margin: 4px 4px 0 0;
+  text-align: center;
+  background-color: #eee;
+}
+.global-icon-62-dir {
+  background: url(http://s1.pan.bdstatic.com/yun-static/common-cdn/images/clouddisk-ui/spritenew-f.gif?t=1432033743378) 9999px 9999px no-repeat;
+  background-position: -24px 0;
+}
+.module-grid-view .wrapper .thumb-large {
+  width: 90px;
+  height: 92px;
+  overflow: hidden;
+  margin: 0 auto;
+ /* border: 2px solid #fff;*/
+  position: relative;
+}
+.module-grid-view .wrapper .item-hover .thumb-large, .module-grid-view .wrapper  .thumb-large {
+  
+}
+.module-grid-view .wrapper .enabled .thumb-large, .module-grid-view .wrapper .enabled .file-name a {
+  cursor: pointer;
+}
+.module-grid-view .wrapper .thumb-large .item-chk {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  width: 30px;
+  height: 30px;
+  background: url(/yun-static/common/images/btn_icon.gif?t=1432128546257) 6px -305px no-repeat;
+  display: none;
+}
+.module-grid-view .wrapper .thumb-large .item-chked {
+  background-position: 6px -340px;
+}
+.module-grid-view .wrapper .item-hover .item-chk, .module-grid-view .wrapper .item-active .item-chk {
+  display: inline-block;
+}
+.module-grid-view .wrapper .file-name {
+  line-height: 28px;
+  height: 28px;
+}
+.module-grid-view .wrapper .file-name a {
+  color: #333;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: inline-block;
+  width: 100%;
+  cursor: default;
+}

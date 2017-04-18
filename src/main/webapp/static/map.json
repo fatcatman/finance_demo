@@ -1,0 +1,1938 @@
+{
+    "res": {
+        "lib/css/attachment.css": {
+            "uri": "/Service/static/lib/css/attachment.css",
+            "type": "css"
+        },
+        "lib/css/attachmenticon.css": {
+            "uri": "/Service/static/lib/css/attachmenticon.css",
+            "type": "css"
+        },
+        "lib/css/blue.css": {
+            "uri": "/Service/static/lib/css/blue.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-fileupload.css": {
+            "uri": "/Service/static/lib/css/bootstrap-fileupload.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-image-gallery.min.css": {
+            "uri": "/Service/static/lib/css/bootstrap-image-gallery.min.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-modal.css": {
+            "uri": "/Service/static/lib/css/bootstrap-modal.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap-responsive.min.css": {
+            "uri": "/Service/static/lib/css/bootstrap-responsive.min.css",
+            "type": "css"
+        },
+        "lib/css/bootstrap.min.css": {
+            "uri": "/Service/static/lib/css/bootstrap.min.css",
+            "type": "css"
+        },
+        "lib/css/brown.css": {
+            "uri": "/Service/static/lib/css/brown.css",
+            "type": "css"
+        },
+        "lib/css/common.css": {
+            "uri": "/Service/static/lib/css/common.css",
+            "type": "css"
+        },
+        "lib/css/customize.css": {
+            "uri": "/Service/static/lib/css/customize.css",
+            "type": "css"
+        },
+        "lib/css/datepicker.css": {
+            "uri": "/Service/static/lib/css/datepicker.css",
+            "type": "css"
+        },
+        "lib/css/daterangepicker.css": {
+            "uri": "/Service/static/lib/css/daterangepicker.css",
+            "type": "css"
+        },
+        "lib/css/default.css": {
+            "uri": "/Service/static/lib/css/default.css",
+            "type": "css"
+        },
+        "lib/css/drag.css": {
+            "uri": "/Service/static/lib/css/drag.css",
+            "type": "css"
+        },
+        "lib/css/easydialog.css": {
+            "uri": "/Service/static/lib/css/easydialog.css",
+            "type": "css"
+        },
+        "lib/css/font-awesome.min.css": {
+            "uri": "/Service/static/lib/css/font-awesome.min.css",
+            "type": "css"
+        },
+        "lib/css/fullcalendar.css": {
+            "uri": "/Service/static/lib/css/fullcalendar.css",
+            "type": "css"
+        },
+        "lib/css/glyphicons.css": {
+            "uri": "/Service/static/lib/css/glyphicons.css",
+            "type": "css"
+        },
+        "lib/css/grey.css": {
+            "uri": "/Service/static/lib/css/grey.css",
+            "type": "css"
+        },
+        "lib/css/jquery.dataTables.css": {
+            "uri": "/Service/static/lib/css/jquery.dataTables.css",
+            "type": "css"
+        },
+        "lib/css/jquery.easy-pie-chart.css": {
+            "uri": "/Service/static/lib/css/jquery.easy-pie-chart.css",
+            "type": "css"
+        },
+        "lib/css/jquery.gritter.css": {
+            "uri": "/Service/static/lib/css/jquery.gritter.css",
+            "type": "css"
+        },
+        "lib/css/jqvmap.css": {
+            "uri": "/Service/static/lib/css/jqvmap.css",
+            "type": "css"
+        },
+        "lib/css/light.css": {
+            "uri": "/Service/static/lib/css/light.css",
+            "type": "css"
+        },
+        "lib/css/lightbox.css": {
+            "uri": "/Service/static/lib/css/lightbox.css",
+            "type": "css"
+        },
+        "lib/css/login-soft.css": {
+            "uri": "/Service/static/lib/css/login-soft.css",
+            "type": "css"
+        },
+        "lib/css/login.css": {
+            "uri": "/Service/static/lib/css/login.css",
+            "type": "css"
+        },
+        "lib/css/multi-select-metro.css": {
+            "uri": "/Service/static/lib/css/multi-select-metro.css",
+            "type": "css"
+        },
+        "lib/css/profile.css": {
+            "uri": "/Service/static/lib/css/profile.css",
+            "type": "css"
+        },
+        "lib/css/purple.css": {
+            "uri": "/Service/static/lib/css/purple.css",
+            "type": "css"
+        },
+        "lib/css/select2_metro.css": {
+            "uri": "/Service/static/lib/css/select2_metro.css",
+            "type": "css"
+        },
+        "lib/css/skins/cm_blue/style.css": {
+            "uri": "/Service/static/lib/css/skins/cm_blue/style.css",
+            "type": "css"
+        },
+        "lib/css/skins/cm_default/style.css": {
+            "uri": "/Service/static/lib/css/skins/cm_default/style.css",
+            "type": "css"
+        },
+        "lib/css/style-metro.css": {
+            "uri": "/Service/static/lib/css/style-metro.css",
+            "type": "css"
+        },
+        "lib/css/style-responsive.css": {
+            "uri": "/Service/static/lib/css/style-responsive.css",
+            "type": "css"
+        },
+        "lib/css/style.css": {
+            "uri": "/Service/static/lib/css/style.css",
+            "type": "css"
+        },
+        "lib/css/uniform.default.css": {
+            "uri": "/Service/static/lib/css/uniform.default.css",
+            "type": "css"
+        },
+        "lib/css/uploadify.css": {
+            "uri": "/Service/static/lib/css/uploadify.css",
+            "type": "css"
+        },
+        "lib/css/yun-static.css": {
+            "uri": "/Service/static/lib/css/yun-static.css",
+            "type": "css"
+        },
+        "lib/dialogs/attachment/attachment.css": {
+            "uri": "/Service/static/lib/dialogs/attachment/attachment.css",
+            "type": "css"
+        },
+        "lib/dialogs/attachment/attachment.js": {
+            "uri": "/Service/static/lib/dialogs/attachment/attachment.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/attachment/attachment.css"
+            ]
+        },
+        "lib/dialogs/background/background.css": {
+            "uri": "/Service/static/lib/dialogs/background/background.css",
+            "type": "css"
+        },
+        "lib/dialogs/background/background.js": {
+            "uri": "/Service/static/lib/dialogs/background/background.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/background/background.css"
+            ]
+        },
+        "lib/dialogs/charts/chart.config.js": {
+            "uri": "/Service/static/lib/dialogs/charts/chart.config.js",
+            "type": "js"
+        },
+        "lib/dialogs/charts/charts.css": {
+            "uri": "/Service/static/lib/dialogs/charts/charts.css",
+            "type": "css"
+        },
+        "lib/dialogs/charts/charts.js": {
+            "uri": "/Service/static/lib/dialogs/charts/charts.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/charts/charts.css"
+            ]
+        },
+        "lib/dialogs/emotion/emotion.css": {
+            "uri": "/Service/static/lib/dialogs/emotion/emotion.css",
+            "type": "css"
+        },
+        "lib/dialogs/emotion/emotion.js": {
+            "uri": "/Service/static/lib/dialogs/emotion/emotion.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/emotion/emotion.css"
+            ]
+        },
+        "lib/dialogs/help/help.css": {
+            "uri": "/Service/static/lib/dialogs/help/help.css",
+            "type": "css"
+        },
+        "lib/dialogs/help/help.js": {
+            "uri": "/Service/static/lib/dialogs/help/help.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/help/help.css"
+            ]
+        },
+        "lib/dialogs/image/image.css": {
+            "uri": "/Service/static/lib/dialogs/image/image.css",
+            "type": "css"
+        },
+        "lib/dialogs/image/image.js": {
+            "uri": "/Service/static/lib/dialogs/image/image.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/image/image.css"
+            ]
+        },
+        "lib/dialogs/internal.js": {
+            "uri": "/Service/static/lib/dialogs/internal.js",
+            "type": "js"
+        },
+        "lib/dialogs/music/music.css": {
+            "uri": "/Service/static/lib/dialogs/music/music.css",
+            "type": "css"
+        },
+        "lib/dialogs/music/music.js": {
+            "uri": "/Service/static/lib/dialogs/music/music.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/music/music.css"
+            ]
+        },
+        "lib/dialogs/scrawl/scrawl.css": {
+            "uri": "/Service/static/lib/dialogs/scrawl/scrawl.css",
+            "type": "css"
+        },
+        "lib/dialogs/scrawl/scrawl.js": {
+            "uri": "/Service/static/lib/dialogs/scrawl/scrawl.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/scrawl/scrawl.css"
+            ]
+        },
+        "lib/dialogs/searchreplace/searchreplace.js": {
+            "uri": "/Service/static/lib/dialogs/searchreplace/searchreplace.js",
+            "type": "js"
+        },
+        "lib/dialogs/spechars/spechars.js": {
+            "uri": "/Service/static/lib/dialogs/spechars/spechars.js",
+            "type": "js"
+        },
+        "lib/dialogs/table/edittable.css": {
+            "uri": "/Service/static/lib/dialogs/table/edittable.css",
+            "type": "css"
+        },
+        "lib/dialogs/table/edittable.js": {
+            "uri": "/Service/static/lib/dialogs/table/edittable.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/table/edittable.css"
+            ]
+        },
+        "lib/dialogs/template/config.js": {
+            "uri": "/Service/static/lib/dialogs/template/config.js",
+            "type": "js"
+        },
+        "lib/dialogs/template/template.css": {
+            "uri": "/Service/static/lib/dialogs/template/template.css",
+            "type": "css"
+        },
+        "lib/dialogs/template/template.js": {
+            "uri": "/Service/static/lib/dialogs/template/template.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/template/template.css"
+            ]
+        },
+        "lib/dialogs/video/video.css": {
+            "uri": "/Service/static/lib/dialogs/video/video.css",
+            "type": "css"
+        },
+        "lib/dialogs/video/video.js": {
+            "uri": "/Service/static/lib/dialogs/video/video.js",
+            "type": "js",
+            "deps": [
+                "lib/dialogs/video/video.css"
+            ]
+        },
+        "lib/dialogs/wordimage/tangram.js": {
+            "uri": "/Service/static/lib/dialogs/wordimage/tangram.js",
+            "type": "js"
+        },
+        "lib/dialogs/wordimage/wordimage.js": {
+            "uri": "/Service/static/lib/dialogs/wordimage/wordimage.js",
+            "type": "js"
+        },
+        "lib/drag.js": {
+            "uri": "/Service/static/lib/drag.js",
+            "type": "js"
+        },
+        "lib/excanvas.min.js": {
+            "uri": "/Service/static/lib/excanvas.min.js",
+            "type": "js"
+        },
+        "lib/html5shiv.min.js": {
+            "uri": "/Service/static/lib/html5shiv.min.js",
+            "type": "js"
+        },
+        "lib/jplayer/jquery.jplayer.js": {
+            "uri": "/Service/static/lib/jplayer/jquery.jplayer.js",
+            "type": "js",
+            "deps": [
+                "jquery"
+            ]
+        },
+        "lib/jplayer/jquery.jplayer.min.js": {
+            "uri": "/Service/static/lib/jplayer/jquery.jplayer.min.js",
+            "type": "js",
+            "deps": [
+                "jquery"
+            ]
+        },
+        "lib/jquery/ajaxfileupload.js": {
+            "uri": "/Service/static/lib/jquery/ajaxfileupload.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-datepicker.js": {
+            "uri": "/Service/static/lib/jquery/bootstrap-datepicker.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-fileupload.js": {
+            "uri": "/Service/static/lib/jquery/bootstrap-fileupload.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-modal.js": {
+            "uri": "/Service/static/lib/jquery/bootstrap-modal.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap-modalmanager.js": {
+            "uri": "/Service/static/lib/jquery/bootstrap-modalmanager.js",
+            "type": "js"
+        },
+        "lib/jquery/bootstrap.min.js": {
+            "uri": "/Service/static/lib/jquery/bootstrap.min.js",
+            "type": "js"
+        },
+        "lib/jquery/date.js": {
+            "uri": "/Service/static/lib/jquery/date.js",
+            "type": "js"
+        },
+        "lib/jquery/dateUtil.js": {
+            "uri": "/Service/static/lib/jquery/dateUtil.js",
+            "type": "js"
+        },
+        "lib/jquery/daterangepicker.js": {
+            "uri": "/Service/static/lib/jquery/daterangepicker.js",
+            "type": "js"
+        },
+        "lib/jquery/easydialog.min.js": {
+            "uri": "/Service/static/lib/jquery/easydialog.min.js",
+            "type": "js"
+        },
+        "lib/jquery/fullcalendar.min.js": {
+            "uri": "/Service/static/lib/jquery/fullcalendar.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery-1.10.1.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery-1.10.1.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery-migrate-1.2.1.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery-migrate-1.2.1.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery-ui-1.10.1.custom.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery-ui-1.10.1.custom.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.SuperSlide.2.1.1.js": {
+            "uri": "/Service/static/lib/jquery/jquery.SuperSlide.2.1.1.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.backstretch.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.backstretch.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.blockui.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.blockui.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.cookie.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.cookie.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.dataTables.js": {
+            "uri": "/Service/static/lib/jquery/jquery.dataTables.js",
+            "type": "js",
+            "deps": [
+                "jquery"
+            ]
+        },
+        "lib/jquery/jquery.dataTables.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.dataTables.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.easy-pie-chart.js": {
+            "uri": "/Service/static/lib/jquery/jquery.easy-pie-chart.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.flot.js": {
+            "uri": "/Service/static/lib/jquery/jquery.flot.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.flot.resize.js": {
+            "uri": "/Service/static/lib/jquery/jquery.flot.resize.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.gritter.js": {
+            "uri": "/Service/static/lib/jquery/jquery.gritter.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.jeegoocontext-2.0.0.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.jeegoocontext-2.0.0.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.pulsate.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.pulsate.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.slimscroll.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.slimscroll.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.sparkline.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.sparkline.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.uniform.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.uniform.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.uploadify.js": {
+            "uri": "/Service/static/lib/jquery/jquery.uploadify.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.uploadify.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.uploadify.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.validate.min.js": {
+            "uri": "/Service/static/lib/jquery/jquery.validate.min.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.europe.js": {
+            "uri": "/Service/static/lib/jquery/jquery.vmap.europe.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.germany.js": {
+            "uri": "/Service/static/lib/jquery/jquery.vmap.germany.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.js": {
+            "uri": "/Service/static/lib/jquery/jquery.vmap.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.russia.js": {
+            "uri": "/Service/static/lib/jquery/jquery.vmap.russia.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.sampledata.js": {
+            "uri": "/Service/static/lib/jquery/jquery.vmap.sampledata.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.usa.js": {
+            "uri": "/Service/static/lib/jquery/jquery.vmap.usa.js",
+            "type": "js"
+        },
+        "lib/jquery/jquery.vmap.world.js": {
+            "uri": "/Service/static/lib/jquery/jquery.vmap.world.js",
+            "type": "js"
+        },
+        "lib/jquery/pace.min.js": {
+            "uri": "/Service/static/lib/jquery/pace.min.js",
+            "type": "js"
+        },
+        "lib/jquery/select2.min.js": {
+            "uri": "/Service/static/lib/jquery/select2.min.js",
+            "type": "js"
+        },
+        "lib/jquery/ueditor.all.min.js": {
+            "uri": "/Service/static/lib/jquery/ueditor.all.min.js",
+            "type": "js"
+        },
+        "lib/jquery/ueditor.parse.js": {
+            "uri": "/Service/static/lib/jquery/ueditor.parse.js",
+            "type": "js"
+        },
+        "lib/jquery/ueditor.parse.min.js": {
+            "uri": "/Service/static/lib/jquery/ueditor.parse.min.js",
+            "type": "js"
+        },
+        "lib/lang/en/en.js": {
+            "uri": "/Service/static/lib/lang/en/en.js",
+            "type": "js"
+        },
+        "lib/lang/zh-cn/zh-cn.js": {
+            "uri": "/Service/static/lib/lang/zh-cn/zh-cn.js",
+            "type": "js"
+        },
+        "lib/lightbox.js": {
+            "uri": "/Service/static/lib/lightbox.js",
+            "type": "js"
+        },
+        "lib/lightbox.min.js": {
+            "uri": "/Service/static/lib/lightbox.min.js",
+            "type": "js"
+        },
+        "lib/mod.js": {
+            "uri": "/Service/static/lib/mod.js",
+            "type": "js"
+        },
+        "lib/page/themes/black/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/black/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/black/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/blue/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/blue/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/green/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/green/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/orange/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/orange/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/pink/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/pink/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/purple/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/purple/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/red/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/red/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/silver/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/silver/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/white/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/white/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-barber-shop.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-barber-shop.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-big-counter.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-big-counter.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-bounce.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-bounce.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-atom.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-center-atom.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-circle.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-center-circle.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-radar.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-center-radar.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-center-simple.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-center-simple.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-corner-indicator.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-corner-indicator.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-fill-left.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-fill-left.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-flash.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-flash.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-flat-top.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-flat-top.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-loading-bar.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-loading-bar.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-mac-osx.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-mac-osx.css",
+            "type": "css"
+        },
+        "lib/page/themes/yellow/pace-theme-minimal.css": {
+            "uri": "/Service/static/lib/page/themes/yellow/pace-theme-minimal.css",
+            "type": "css"
+        },
+        "lib/respond.min.js": {
+            "uri": "/Service/static/lib/respond.min.js",
+            "type": "js"
+        },
+        "lib/themes/default/css/ueditor.css": {
+            "uri": "/Service/static/lib/themes/default/css/ueditor.css",
+            "type": "css"
+        },
+        "lib/themes/default/css/ueditor.min.css": {
+            "uri": "/Service/static/lib/themes/default/css/ueditor.min.css",
+            "type": "css"
+        },
+        "lib/themes/default/dialogbase.css": {
+            "uri": "/Service/static/lib/themes/default/dialogbase.css",
+            "type": "css"
+        },
+        "lib/themes/iframe.css": {
+            "uri": "/Service/static/lib/themes/iframe.css",
+            "type": "css"
+        },
+        "lib/third-party/SyntaxHighlighter/shCore.js": {
+            "uri": "/Service/static/lib/third-party/SyntaxHighlighter/shCore.js",
+            "type": "js",
+            "deps": [
+                "XRegExp",
+                "shCore"
+            ]
+        },
+        "lib/third-party/SyntaxHighlighter/shCoreDefault.css": {
+            "uri": "/Service/static/lib/third-party/SyntaxHighlighter/shCoreDefault.css",
+            "type": "css"
+        },
+        "lib/third-party/codemirror/codemirror.css": {
+            "uri": "/Service/static/lib/third-party/codemirror/codemirror.css",
+            "type": "css"
+        },
+        "lib/third-party/codemirror/codemirror.js": {
+            "uri": "/Service/static/lib/third-party/codemirror/codemirror.js",
+            "type": "js",
+            "deps": [
+                "lib/third-party/codemirror/codemirror.css"
+            ]
+        },
+        "lib/third-party/highcharts/adapters/mootools-adapter.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/adapters/mootools-adapter.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/adapters/mootools-adapter.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/adapters/mootools-adapter.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/adapters/prototype-adapter.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/adapters/prototype-adapter.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/adapters/prototype-adapter.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/adapters/prototype-adapter.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/adapters/standalone-framework.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/adapters/standalone-framework.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/adapters/standalone-framework.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/adapters/standalone-framework.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/highcharts-more.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/highcharts-more.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/highcharts-more.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/highcharts-more.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/highcharts.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/highcharts.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/highcharts.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/highcharts.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/annotations.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/annotations.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/annotations.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/annotations.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/canvas-tools.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/canvas-tools.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/canvas-tools.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/canvas-tools.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/data.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/data.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/data.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/data.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/drilldown.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/drilldown.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/drilldown.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/drilldown.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/exporting.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/exporting.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/exporting.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/exporting.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/funnel.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/funnel.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/funnel.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/funnel.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/heatmap.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/heatmap.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/heatmap.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/heatmap.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/map.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/map.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/map.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/map.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/no-data-to-display.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/no-data-to-display.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/modules/no-data-to-display.src.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/modules/no-data-to-display.src.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/themes/dark-blue.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/themes/dark-blue.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/themes/dark-green.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/themes/dark-green.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/themes/gray.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/themes/gray.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/themes/grid.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/themes/grid.js",
+            "type": "js"
+        },
+        "lib/third-party/highcharts/themes/skies.js": {
+            "uri": "/Service/static/lib/third-party/highcharts/themes/skies.js",
+            "type": "js"
+        },
+        "lib/third-party/jquery-1.10.2.js": {
+            "uri": "/Service/static/lib/third-party/jquery-1.10.2.js",
+            "type": "js"
+        },
+        "lib/third-party/jquery-1.10.2.min.js": {
+            "uri": "/Service/static/lib/third-party/jquery-1.10.2.min.js",
+            "type": "js"
+        },
+        "lib/third-party/video-js/video-js.css": {
+            "uri": "/Service/static/lib/third-party/video-js/video-js.css",
+            "type": "css"
+        },
+        "lib/third-party/video-js/video-js.min.css": {
+            "uri": "/Service/static/lib/third-party/video-js/video-js.min.css",
+            "type": "css"
+        },
+        "lib/third-party/video-js/video.dev.js": {
+            "uri": "/Service/static/lib/third-party/video-js/video.dev.js",
+            "type": "js"
+        },
+        "lib/third-party/video-js/video.js": {
+            "uri": "/Service/static/lib/third-party/video-js/video.js",
+            "type": "js"
+        },
+        "lib/third-party/webuploader/webuploader.css": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.css",
+            "type": "css"
+        },
+        "lib/third-party/webuploader/webuploader.custom.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.custom.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/third-party/webuploader/webuploader.custom.min.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.custom.min.js",
+            "type": "js"
+        },
+        "lib/third-party/webuploader/webuploader.flashonly.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.flashonly.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/third-party/webuploader/webuploader.flashonly.min.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.flashonly.min.js",
+            "type": "js"
+        },
+        "lib/third-party/webuploader/webuploader.html5only.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.html5only.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/third-party/webuploader/webuploader.html5only.min.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.html5only.min.js",
+            "type": "js"
+        },
+        "lib/third-party/webuploader/webuploader.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.js",
+            "type": "js",
+            "deps": [
+                "webuploader",
+                "lib/third-party/webuploader/webuploader.css"
+            ]
+        },
+        "lib/third-party/webuploader/webuploader.min.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.min.js",
+            "type": "js"
+        },
+        "lib/third-party/webuploader/webuploader.withoutimage.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.withoutimage.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/third-party/webuploader/webuploader.withoutimage.min.js": {
+            "uri": "/Service/static/lib/third-party/webuploader/webuploader.withoutimage.min.js",
+            "type": "js"
+        },
+        "lib/third-party/zeroclipboard/ZeroClipboard.js": {
+            "uri": "/Service/static/lib/third-party/zeroclipboard/ZeroClipboard.js",
+            "type": "js"
+        },
+        "lib/third-party/zeroclipboard/ZeroClipboard.min.js": {
+            "uri": "/Service/static/lib/third-party/zeroclipboard/ZeroClipboard.min.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.css": {
+            "uri": "/Service/static/lib/webuploader/webuploader.css",
+            "type": "css"
+        },
+        "lib/webuploader/webuploader.custom.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.custom.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.custom.min.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.custom.min.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.fis.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.fis.js",
+            "type": "js",
+            "deps": [
+                "example:widget/ui/jquery/jquery.js"
+            ]
+        },
+        "lib/webuploader/webuploader.flashonly.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.flashonly.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.flashonly.min.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.flashonly.min.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.html5only.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.html5only.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.html5only.min.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.html5only.min.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.js",
+            "type": "js",
+            "deps": [
+                "webuploader",
+                "lib/webuploader/webuploader.css"
+            ]
+        },
+        "lib/webuploader/webuploader.min.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.min.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.noimage.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.noimage.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.noimage.min.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.noimage.min.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.nolog.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.nolog.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.nolog.min.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.nolog.min.js",
+            "type": "js"
+        },
+        "lib/webuploader/webuploader.withoutimage.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.withoutimage.js",
+            "type": "js",
+            "deps": [
+                "webuploader"
+            ]
+        },
+        "lib/webuploader/webuploader.withoutimage.min.js": {
+            "uri": "/Service/static/lib/webuploader/webuploader.withoutimage.min.js",
+            "type": "js"
+        },
+        "app/index": {
+            "uri": "/Service//static//modules/app/index.js",
+            "type": "js",
+            "deps": [
+                "app/layout"
+            ]
+        },
+        "app/layout": {
+            "uri": "/Service//static//modules/app/layout.js",
+            "type": "js",
+            "id": "app/layout"
+        },
+        "app/login": {
+            "uri": "/Service//static//modules/app/login.js",
+            "type": "js",
+            "deps": [
+                "app/layout"
+            ],
+            "id": "app/login"
+        },
+        "app/main": {
+            "uri": "/Service//static//modules/app/main.js",
+            "type": "js",
+            "extras": {
+                "async": [
+                    "app/views/header/header",
+                    "app/views/sidebar/sidebar",
+                    "app/views/page/page"
+                ]
+            },
+            "deps": [
+                "app/layout",
+                "vendor/avalon/avalon",
+                "app/services/filterService",
+                "app/services/routeService"
+            ],
+            "id": "app/main"
+        },
+        "app/services/ajaxService": {
+            "uri": "/Service//static//modules/app/services/ajaxService.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "app/services/canvasService": {
+            "uri": "/Service//static//modules/app/services/canvasService.js",
+            "type": "js"
+        },
+        "app/services/filterService": {
+            "uri": "/Service//static//modules/app/services/filterService.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ],
+            "id": "app/services/filterService"
+        },
+        "app/services/routeService": {
+            "uri": "/Service//static//modules/app/services/routeService.js",
+            "type": "js",
+            "extras": {
+                "async": [
+                    "app/views/home/home",
+                    "app/views/userCenter/userCenter",
+                    "app/views/group/group",
+                    "app/views/parameter/parameter",
+                    "app/views/employee/employee",
+                    "app/views/reportingData/reportingData",
+                    "app/views/welfare/welfare",
+                    "app/views/org/org",
+                    "app/views/allorg/allorg",
+                    "app/views/approval/approval",
+                    "app/views/approval_org/approval_org",
+                    "app/views/temp/temp",
+                    "app/views/guide/guide",
+                    "app/views/user/UserPwd",
+                    "app/views/module/module",
+                    "app/views/module/moduleparent",
+                    "app/views/productCategory/productCategory",
+                    "app/views/news/news",
+                    "app/views/task/task",
+                    "app/views/product/product",
+                    "app/views/product/productdetail",
+                    "app/views/pad/pad",
+                    "app/views/mediatype/mediatype",
+                    "app/views/media/media",
+                    "app/views/wxuser/wxuser",
+                    "app/views/manager/manager",
+                    "app/views/image/image",
+                    "app/views/message/message",
+                    "app/views/edit/edit"
+                ]
+            },
+            "deps": [
+                "vendor/avalon/mmRouter"
+            ],
+            "id": "app/services/routeService"
+        },
+        "app/services/tmplService": {
+            "uri": "/Service//static//modules/app/services/tmplService.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "app/views/allorg/allorg": {
+            "uri": "/Service//static//modules/app/views/allorg/allorg.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/approval/approval": {
+            "uri": "/Service//static//modules/app/views/approval/approval.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/approval_org/approval_org": {
+            "uri": "/Service//static//modules/app/views/approval_org/approval_org.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/edit/edit": {
+            "uri": "/Service//static//modules/app/views/edit/edit.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/employee/employee": {
+            "uri": "/Service//static//modules/app/views/employee/employee.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/evaluate/evaluate": {
+            "uri": "/Service//static//modules/app/views/evaluate/evaluate.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/group/group": {
+            "uri": "/Service//static//modules/app/views/group/group.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/guide/guide": {
+            "uri": "/Service//static//modules/app/views/guide/guide.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/header/header": {
+            "uri": "/Service//static//modules/app/views/header/header.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/home/home": {
+            "uri": "/Service//static//modules/app/views/home/home.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/image/image": {
+            "uri": "/Service//static//modules/app/views/image/image.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/manager/manager": {
+            "uri": "/Service//static//modules/app/views/manager/manager.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/media/media": {
+            "uri": "/Service//static//modules/app/views/media/media.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/mediaregion/mediaregion": {
+            "uri": "/Service//static//modules/app/views/mediaregion/mediaregion.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/mediatype/mediatype": {
+            "uri": "/Service//static//modules/app/views/mediatype/mediatype.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/message/message": {
+            "uri": "/Service//static//modules/app/views/message/message.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/module/module": {
+            "uri": "/Service//static//modules/app/views/module/module.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/module/moduleparent": {
+            "uri": "/Service//static//modules/app/views/module/moduleparent.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/news/news": {
+            "uri": "/Service//static//modules/app/views/news/news.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/org/org": {
+            "uri": "/Service//static//modules/app/views/org/org.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/pad/pad": {
+            "uri": "/Service//static//modules/app/views/pad/pad.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/page/page": {
+            "uri": "/Service//static//modules/app/views/page/page.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "app/views/parameter/parameter": {
+            "uri": "/Service//static//modules/app/views/parameter/parameter.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/product/product": {
+            "uri": "/Service//static//modules/app/views/product/product.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/product/productdetail": {
+            "uri": "/Service//static//modules/app/views/product/productdetail.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/productCategory/productCategory": {
+            "uri": "/Service//static//modules/app/views/productCategory/productCategory.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/region/region": {
+            "uri": "/Service//static//modules/app/views/region/region.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/reportingData/reportingData": {
+            "uri": "/Service//static//modules/app/views/reportingData/reportingData.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/sidebar/sidebar": {
+            "uri": "/Service//static//modules/app/views/sidebar/sidebar.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/tmplService"
+            ]
+        },
+        "app/views/task/task": {
+            "uri": "/Service//static//modules/app/views/task/task.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/temp/temp": {
+            "uri": "/Service//static//modules/app/views/temp/temp.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/user/Balance": {
+            "uri": "/Service//static//modules/app/views/user/Balance.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/user/UserPwd": {
+            "uri": "/Service//static//modules/app/views/user/UserPwd.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/user/manager": {
+            "uri": "/Service//static//modules/app/views/user/manager.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/user/user": {
+            "uri": "/Service//static//modules/app/views/user/user.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/userCenter/userCenter": {
+            "uri": "/Service//static//modules/app/views/userCenter/userCenter.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/welcome/welcome": {
+            "uri": "/Service//static//modules/app/views/welcome/welcome.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/welfare/welfare": {
+            "uri": "/Service//static//modules/app/views/welfare/welfare.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "app/views/wxuser/wxuser": {
+            "uri": "/Service//static//modules/app/views/wxuser/wxuser.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "app/services/ajaxService"
+            ]
+        },
+        "vendor/avalon/avalon": {
+            "uri": "/Service//static//modules/vendor/avalon/avalon.js",
+            "type": "js",
+            "id": "vendor/avalon/avalon"
+        },
+        "vendor/avalon/avalon.validation": {
+            "uri": "/Service//static//modules/vendor/avalon/avalon.validation.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon",
+                "vendor/avalon/mmPromise"
+            ]
+        },
+        "vendor/avalon/avalon1": {
+            "uri": "/Service//static//modules/vendor/avalon/avalon1.js",
+            "type": "js"
+        },
+        "vendor/avalon/avalon2": {
+            "uri": "/Service//static//modules/vendor/avalon/avalon2.js",
+            "type": "js"
+        },
+        "vendor/avalon/mmHistory": {
+            "uri": "/Service//static//modules/vendor/avalon/mmHistory.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ],
+            "id": "vendor/avalon/mmHistory"
+        },
+        "vendor/avalon/mmPromise": {
+            "uri": "/Service//static//modules/vendor/avalon/mmPromise.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/avalon"
+            ]
+        },
+        "vendor/avalon/mmRouter": {
+            "uri": "/Service//static//modules/vendor/avalon/mmRouter.js",
+            "type": "js",
+            "deps": [
+                "vendor/avalon/mmHistory"
+            ],
+            "id": "vendor/avalon/mmRouter"
+        },
+        "modules/vendor/bootstrap/bootstrap-responsive.min.css": {
+            "uri": "/Service/static/modules/vendor/bootstrap/bootstrap-responsive.min.css",
+            "type": "css"
+        },
+        "vendor/bootstrap/bootstrap.min": {
+            "uri": "/Service//static//modules/vendor/bootstrap/bootstrap.min.js",
+            "type": "js",
+            "deps": [
+                "vendor/jquery/jquery-1.10.1.min"
+            ]
+        },
+        "pkg/map_90c2a57.js": {
+            "uri": "/static/pkg/map_90c2a57.js",
+            "type": "js"
+        },
+        "pkg/map_0e68047.js": {
+            "uri": "/static/pkg/map_0e68047.js",
+            "type": "js"
+        },
+        "pkg/map_1a7ade1.js": {
+            "uri": "/static/pkg/map_1a7ade1.js",
+            "type": "js"
+        }
+    },
+    "pkg": {}
+}

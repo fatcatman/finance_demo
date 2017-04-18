@@ -1,0 +1,26 @@
+<div class="nav-progress"></div>
+<div class="container-fluid" ms-controller="header">
+  <!-- BEGIN LOGO -->
+  <a class="brand" href="#">
+    <img src="<%= __uri('../../../../lib/image/logo-index.png')%>" alt="logo"/>
+  </a>
+  <!-- END LOGO -->
+  <!-- BEGIN RESPONSIVE MENU TOGGLER -->
+  <a href="javascript:;" class="btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+    <img src="<%= __uri('../../../../lib/image/menu-toggler.png')%>" alt="" />
+  </a>
+  <!-- END RESPONSIVE MENU TOGGLER -->
+  <!-- BEGIN TOP NAVIGATION MENU -->
+  <ul class="nav pull-right">
+    <!-- BEGIN NOTIFICATION DROPDOWN -->
+    <!-- END NOTIFICATION DROPDOWN -->
+    <!-- BEGIN USER LOGIN DROPDOWN -->
+    <li class="dropdown user">
+      <a href="javascript:;" ms-click="logout">
+        <i class="icon-key"></i> 退出登录
+      </a>
+    </li>
+    <!-- END USER LOGIN DROPDOWN -->
+  </ul>
+  <!-- END TOP NAVIGATION MENU -->
+</div>

@@ -1,0 +1,1 @@
+pure release -d local -f fis-conf-release.js -Dom
